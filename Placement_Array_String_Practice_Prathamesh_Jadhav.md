@@ -51,9 +51,10 @@
 1. Print a matrix in spiral order.
 2. Rotate a matrix by 90 degrees clockwise.
 3. Search for an element in a sorted 2D matrix.
-4. Count frequency of a given word in a string.
-5. Implement custom strstr() logic.
-6. Count vowels and consonants in a string.
+4. Two Sum
+5. Sort 0s, 1s, 2s (Dutch National Flag)
+6.  Product of Array Except Self
+7. Maximum Product Subarray 
 
 
 
